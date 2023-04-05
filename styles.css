@@ -10,7 +10,7 @@
 body { 
     margin: 0;
     padding: 0;
-    font-family: 'roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container {
@@ -99,3 +99,19 @@ h1 {
     height: auto;
     border-radius: 15px;
 }
+
+.info {
+    background-color: var(--main-text);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: var(--hero-bg);
+}
+
+
