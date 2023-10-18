@@ -1,2 +1,2 @@
 # landing-page
-Basic Flexbox practice &lt;3
+Vanilla HTML and CSS project using flexbox to layout a landing page
